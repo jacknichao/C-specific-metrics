@@ -1,0 +1,10 @@
+datainput/cprojects/scrcpy.csv
+singlepointer maxpointerdepth : 0.863991381333111 
+singlepointer nf : 0.835580893172232 
+nf entropy : 0.829792082249012 
+exp rexp : 0.997421964626388 
+exp sexp : 0.905495397598347 
+rexp sexp : 0.903879155914671 
+ndev nuc : 0.904921554483292 
+ndev lt : 0.841105873899253 
+nuc lt : 0.911989732129903 

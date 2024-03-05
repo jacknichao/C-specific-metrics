@@ -1,0 +1,16 @@
+{
+  "data_root_path": "/data_root_path/OSSprojects/",
+  "projects": ["FFmpeg"],
+  "df_basic_path": "/data_root_path",
+  "git_log_path": "/data_root_path/inputoutput/log",
+  "sql": {
+    "vendor": "mysql",
+    "username": "username",
+    "password": "password",
+    "dbname": "database_name",
+    "ip":"localhost",
+    "pool":10
+  },
+
+  "extensions": [".h", ".c", ".cpp", ".hpp"]
+}

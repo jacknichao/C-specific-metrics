@@ -1,0 +1,22 @@
+{
+    "sql":{
+    "type": "mysql",
+    "adapter": "mysqlconnector",
+    "username": "user",
+    "password": "password",
+    "port": "3306",
+    "database":"cexperiment",
+    "host":"localhost",
+    "pool":20
+  },
+  "expsettings":{
+    "project_type":"oss-cproject",
+    "featurename":["ns", "nd", "nf", "entropy", "la", "ld", 
+    "lt", "is_fix", "ndev", "age","nuc", "exp", "rexp", "sexp",
+    "meminc", "memdec", "memchg", "singlepointer", "multiplepointer", 
+    "maxpointerdepth", "gotostm", "indexused", "autoincredecre"],
+    "labelname":"contains_bug",
+    "data_root_path" :"/data/",
+    "dbtablename":"cexperiment_rq1"
+  }
+}

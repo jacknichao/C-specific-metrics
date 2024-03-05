@@ -1,0 +1,6 @@
+This directory is used to input data input szz algorithm and save the outputted results.
+It should be organized as the following structure:
+inputoutput
+inputoutput\log
+inputoutput\report
+inputoutput\repos

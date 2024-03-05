@@ -1,0 +1,19 @@
+1. dependencies required
+mysql, python3, git;
+python packages: sqlalchemy simplejson, mysql-connector
+
+2. config.json
+
+data_root_path: the root path where all projects are stored
+
+projects: a list of your studied project names
+
+git_log_path: git log will be stored in this path
+
+sql: configurations about mysql, dbname stands for database name
+
+extensions: the considered file types. If extensions is set to [], then all files will be considered.
+
+3. How to run the code
+First run `log_generation.py`, then run `main.py`.
+After these two steps, results will be stored in the mysql database.

@@ -1,0 +1,7 @@
+{
+  "username" : "user",
+  "password" : "password",
+  "host" : "localhost",
+  "database" : "db",
+  "poolsize" : 10
+}

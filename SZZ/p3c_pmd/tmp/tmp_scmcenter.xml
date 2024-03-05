@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.5.2" timestamp="2018-06-29T17:21:45.313">
+<file name="/home/wenfeng/vlis/defect_prediction/p3c_pmd/tmp/tmp_scmcenter.java">
+<violation beginline="17" endline="17" begincolumn="32" endcolumn="45" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="innerConnectId" priority="2">
+常量【innerConnectId】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="22" endline="22" begincolumn="32" endcolumn="38" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="pattern" priority="2">
+常量【pattern】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="26" endline="26" begincolumn="32" endcolumn="41" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="patternNum" priority="2">
+常量【patternNum】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="31" endline="31" begincolumn="32" endcolumn="48" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="patternDate2month" priority="2">
+常量【patternDate2month】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="35" endline="35" begincolumn="32" endcolumn="46" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="patternDate2day" priority="2">
+常量【patternDate2day】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="40" endline="40" begincolumn="32" endcolumn="47" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="patternDate2time" priority="2">
+常量【patternDate2time】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="45" endline="45" begincolumn="32" endcolumn="51" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="patternDate2mouthNum" priority="2">
+常量【patternDate2mouthNum】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="50" endline="50" begincolumn="32" endcolumn="49" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="patternDate2dayNum" priority="2">
+常量【patternDate2dayNum】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="55" endline="55" begincolumn="32" endcolumn="50" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="patternDate2timeNum" priority="2">
+常量【patternDate2timeNum】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="57" endline="57" begincolumn="32" endcolumn="47" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="patternDateToDay" priority="2">
+常量【patternDateToDay】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="59" endline="59" begincolumn="32" endcolumn="47" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="patternDateMills" priority="2">
+常量【patternDateMills】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="61" endline="61" begincolumn="32" endcolumn="50" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="patternForAppcenter" priority="2">
+常量【patternForAppcenter】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="63" endline="63" begincolumn="32" endcolumn="45" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="pattern2Minute" priority="2">
+常量【pattern2Minute】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="72" endline="72" begincolumn="25" endcolumn="56" rule="CommentsMustBeJavadocFormatRule" ruleset="AlibabaJavaComments" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="WEB_PAGE_RECORD_NUMBER" priority="3">
+字段【WEB_PAGE_RECORD_NUMBER】必须使用javadoc形式的注释
+</violation>
+<violation beginline="75" endline="75" begincolumn="25" endcolumn="46" rule="CommentsMustBeJavadocFormatRule" ruleset="AlibabaJavaComments" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="svnKey" priority="3">
+字段【svnKey】必须使用javadoc形式的注释
+</violation>
+<violation beginline="76" endline="76" begincolumn="32" endcolumn="37" rule="ConstantFieldShouldBeUpperCaseRule" ruleset="AlibabaJavaNaming" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="svnKey" priority="2">
+常量【svnKey】命名应全部大写并以下划线分隔
+</violation>
+<violation beginline="168" endline="168" begincolumn="25" endcolumn="85" rule="CommentsMustBeJavadocFormatRule" ruleset="AlibabaJavaComments" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="PC_URL_PARAM_SET" priority="3">
+字段【PC_URL_PARAM_SET】必须使用javadoc形式的注释
+</violation>
+<violation beginline="171" endline="171" begincolumn="25" endcolumn="114" rule="CommentsMustBeJavadocFormatRule" ruleset="AlibabaJavaComments" package="com.alipay.scmcenter.common.util.constant" class="Constants" variable="PC_URL_SPECIAL_PARAM_SET" priority="3">
+字段【PC_URL_SPECIAL_PARAM_SET】必须使用javadoc形式的注释
+</violation>
+</file>
+</pmd>
